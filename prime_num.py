@@ -1,3 +1,5 @@
+# this is a simple code
+# This code finds all prime numbers
 x = int(input(""))
 
 if x > 1:
