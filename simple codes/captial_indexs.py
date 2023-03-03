@@ -1,3 +1,5 @@
+# this code will show the captal letters ( ͡ᵔ ͜ʖ ͡ᵔ )
+
 a = input('')
 
 def captial_indexes(a):
