@@ -12,7 +12,7 @@ for password in range(1,10000):
     hash_pass_to_pass[hashing_number] = password
 
 # now open file and read it
-with open ('python_test/Python_Playground/rain.csv')as f:
+with open ('Python_Playground/rain.csv')as f:
     password_singer = reader(f)
     for row in password_singer: #here we find passwords
         name_users = row[0]
