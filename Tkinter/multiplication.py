@@ -27,5 +27,5 @@ Button(window, text = 'do multiplication', command= multiplication).pack()
 multiplication_lb = Label(window, text = 'no Multiplied number', fg = 'red')
 multiplication_lb.pack()
 
-window.geometry('200x200')
+window.geometry('400x400')
 window.mainloop()
