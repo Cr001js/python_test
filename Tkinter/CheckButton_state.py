@@ -10,7 +10,7 @@ def get_state() :
 
 
 male_val = IntVar()
-Checkbutton(window, text = 'male', variable = male_val).pack()
+Checkbutton(window, text = 'connection', variable = male_val).pack()
 
 Button(window, text = 'Show State', command = get_state).pack()
 
