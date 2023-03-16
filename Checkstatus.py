@@ -31,5 +31,3 @@ for i in Update:
     Updates.append(v)
 
 Update_datetime = re.findall('tense="past">(.*)<', t)
-
-
