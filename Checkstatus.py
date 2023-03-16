@@ -33,4 +33,3 @@ for i in Update:
 Update_datetime = re.findall('tense="past">(.*)<', t)
 
 
-print(names)
