@@ -1,5 +1,5 @@
 # this is my info ( o˘◡˘o) ┌iii┐
-
+#today i don't have time for python:(
 
 print('hello git')
 print('''
